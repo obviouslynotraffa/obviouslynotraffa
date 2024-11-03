@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+<div style="display: flex; gap: 20px;flex-direction: row;">
+  <div>
+    🎓 Computer Science graduate </br>
+    ✨ Strong interest in game development and cybersecurity </br>
+    🚀 Open to work on open source projects </br>
+  </div>
 
-<!--
-**obviouslynotraffa/obviouslynotraffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+    [[placeholder]]
+  </div>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stack🖥
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cmake,cpp,qt,rust,bevy,python,java,js,php,html,css,react,vite,tailwind,docker,git,latex,mysql,postgres,sqlite,vscode&perline=11" />
+</div>
