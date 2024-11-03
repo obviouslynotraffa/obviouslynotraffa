@@ -3,11 +3,12 @@
   <div>
     🎓 Computer Science graduate </br>
     ✨ Strong interest in game development and cybersecurity </br>
+    ⚡ Rust and C++ enthusiast </br>
     🚀 Open to work on open source projects </br>
   </div>
 
-  <div width="50%">
-    ![Spinning Donut](assets/spinning-donut.gif)
+  <div>
+    <img src="assets/spinning-donut.gif">
   </div>
 </div>
 
