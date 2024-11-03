@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, I'm Raffaele
 <div style="display: flex; gap: 20px;flex-direction: row;">
   <div>
     🎓 Computer Science graduate </br>
@@ -6,8 +6,8 @@
     🚀 Open to work on open source projects </br>
   </div>
 
-  <div>
-    [[placeholder]]
+  <div width="50%">
+    ![Spinning Donut](assets/spinning-donut.gif)
   </div>
 </div>
 
