@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Raffaele
 
-🎓 Computer Science graduate </br>
-✨ Strong interest in game development and cybersecurity </br>
-⚡ Rust and C++ enthusiast </br>
-🚀 Open to work on open source projects </br>
+<h3>🎓 Computer Science graduate</h3>
+<h3>✨ Strong interest in game development and cybersecurity</h3> 
+<h3>⚡ Rust and C++ enthusiast</h3>
+<h3>🚀 Open to work on open source projects</h3>
 
 <div align="center">
   <img src="assets/spinning-donut.gif"/>  
