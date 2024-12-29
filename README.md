@@ -4,7 +4,6 @@
 <p>✨ Strong interest in game development and cybersecurity</p> 
 <p>⚡ Rust and C++ enthusiast</p>
 <p>🚀 Open to work on open source projects</p>
-<p>👀 Looking for collaboration</p>
 
 </br>
 
